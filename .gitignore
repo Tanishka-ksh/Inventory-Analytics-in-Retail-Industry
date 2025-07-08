@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv/
+.Venv/
+ENV/
+env/
+.venv/
+
+# Python cache files
+_pycache_/
+*.py[cod]
+*.so
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Environment files
+.env
+*.env
+
+# Data files (optional, if you don’t want to upload CSVs)
+*.csv
+
+# OS-specific
+.DS_Store
+Thumbs.db
